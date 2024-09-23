@@ -1,0 +1,7 @@
+C:\Users\Ucenik\source\repos\Pitagorin poučak\Pitagorin poučak\bin\Debug\Pitagorin poučak.exe.config
+C:\Users\Ucenik\source\repos\Pitagorin poučak\Pitagorin poučak\bin\Debug\Pitagorin poučak.exe
+C:\Users\Ucenik\source\repos\Pitagorin poučak\Pitagorin poučak\bin\Debug\Pitagorin poučak.pdb
+C:\Users\Ucenik\source\repos\Pitagorin poučak\Pitagorin poučak\obj\Debug\Pitagorin poučak.csproj.AssemblyReference.cache
+C:\Users\Ucenik\source\repos\Pitagorin poučak\Pitagorin poučak\obj\Debug\Pitagorin poučak.csproj.CoreCompileInputs.cache
+C:\Users\Ucenik\source\repos\Pitagorin poučak\Pitagorin poučak\obj\Debug\Pitagorin poučak.exe
+C:\Users\Ucenik\source\repos\Pitagorin poučak\Pitagorin poučak\obj\Debug\Pitagorin poučak.pdb
